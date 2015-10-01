@@ -1,0 +1,2 @@
+### This is a collection of exercises and algorithms in different languages that have helped me learn advanced programming concepts and techniques.
+    These are my own solutions that I designed to solve challenging problems.
